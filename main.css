@@ -1,0 +1,21 @@
+body{
+  font-size:24px;
+}
+
+.special{
+
+}
+
+#bio{
+  color: #e69fba;
+}
+
+li a{
+/*text decoration*/
+test-decoration: none
+}
+
+h1, h2 {
+  font-family: Times sans-serif;
+  color: red;
+}
